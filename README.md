@@ -6,6 +6,7 @@ Notes:
 
 Changes:
 
+* 2020-03-13: Update deprecated db.request to db.fetch, thanks to @maxcodefaster.  Version bump to 1.3.1
 * 2019-10-29: Fixed unintelligible error message when unavailable endpoint is requested.
 * 2019-10-29: Fixed lib/local.js, which improperly used config.authStrategies instead of config.getItem('authStrategies').
 
