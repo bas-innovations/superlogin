@@ -1,3 +1,10 @@
+# @bas-innovations/superlogin
+
+Changes:
+
+2021-02-09:
+Updated dependencies
+
 # @wwoods/superlogin
 
 Notes:
